@@ -11,7 +11,7 @@ To configure ADC channel for interfacing an analog sensor and read the values on
 STM 32 CUBE IDE , STM32 NUCLEO BOARD, CONNECTING CABLE, SERIAL PORT UTILITY , ANALOG SENSOR - 3.3V TYPE 
  # Theory 
 
- 
+
 ADCs are characterized by:
 
 Resolution [bit]: the number of bits to represent a digital signal.
